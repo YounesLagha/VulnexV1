@@ -40,9 +40,7 @@ A modern web security scanning platform that analyzes HTTP security headers, SSL
 - Supabase account (free tier)
 - Groq API key (free tier available at https://console.groq.com)
 
-## Environment Setup
 
-⚠️ **SECURITY WARNING:** Never commit `.env` or `.env.local` files to Git. These files contain sensitive API keys and should remain local only.
 
 ### Backend Configuration
 
